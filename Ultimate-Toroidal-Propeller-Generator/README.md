@@ -1,5 +1,7 @@
 # Ultimate Toroidal Propeller Generator
 
+### :arrow_right: Link to creator: [text](https://github.com/RaulBejarano/Ultimate-Toroidal-Propeller-Generator)
+
 [![release](https://badgen.net/github/release/RaulBejarano/Ultimate-Toroidal-Propeller-Generator?icon=github)](https://github.com/RaulBejarano/Ultimate-Toroidal-Propeller-Generator/releases/latest)
 [![license](https://badgen.net/github/license/RaulBejarano/Ultimate-Toroidal-Propeller-Generator)](https://github.com/RaulBejarano/Ultimate-Toroidal-Propeller-Generator?tab=GPL-3.0-1-ov-file#readme)
 [![commits](https://badgen.net/github/commits//RaulBejarano/Ultimate-Toroidal-Propeller-Generator/main)](https://github.com/RaulBejarano/Ultimate-Toroidal-Propeller-Generator/commits/main/)
