@@ -1,0 +1,12 @@
+nrf24l01+ <-> arduino
+V+            3.3 V (external)
+GND           GND
+CSN           D9
+CE            D10
+MOSI          D11
+SCK           D13
+RQ            
+MISO          D12
+
+Remember to solder a 30 - 70uF capacitor between 3.3 V and GND
+I use an 220uF capacitor that I had laying around
